@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+
+/* clerk user button adjust */
+.cl-avatarBox{
+    width: 3rem;
+    height: 3rem;
+}
+/* carousel arrowe */
+.arrows{
+    height: 40px;
+    width: 40px;
+    margin: 1px;
+}
+
+
+/* input colors  */
+
+input{
+    background-color: white;
+    accent-color: red;
+    border: 1px solid #ccc;
+    color: #333;
+}
+
+/* toastify */
+
+.Toastify__toast--success {
+  background-color: red !important; /* your custom color */
+  color: white !important;
+
+
+}
+
+.Toastify__toast-container {
+  margin-top: 80px !important;
+}
+
