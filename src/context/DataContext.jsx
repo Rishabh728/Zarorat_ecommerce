@@ -10,7 +10,7 @@ export const DataProvider = ({ children }) => {
   const fetchAllProducts = async () => {
     try {
       // const res = await axios.get("../../public/data.json");
-      const res = await axios.get("../../public/temp.json");
+      const res = await axios.get("/temp.json");
         //   console.log(res);
         const productsData = res.data;
         setData(productsData)
