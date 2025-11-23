@@ -44,7 +44,7 @@ const Footer = () => {
             
             <div className="text-sm text-slate-400 space-y-1 pt-2">
               <p>123 Electronics St, Style City, NY 10001</p>
-              <p>Email: <a href="mailto:support@zapto.com" className="hover:text-white">support@zapto.com</a></p>
+              <p>Email: <a href="mailto:support@zapto.com" className="hover:text-white">support@zarorat.com</a></p>
               <p>Phone: (123) 456-7890</p>
             </div>
           </div>
